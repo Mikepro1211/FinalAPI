@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "173395654956",
+    "project_id": "finalapi-af575",
+    "storage_bucket": "finalapi-af575.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173395654956:android:522f2ce2743b4728479489",
+        "android_client_info": {
+          "package_name": "com.example.finalapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173395654956-2d3nndr4633vdpjri69ereoe2ur423nt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSTnT741xky1kSRn8tpJ-uyn3Xk3gHaE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173395654956-2d3nndr4633vdpjri69ereoe2ur423nt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

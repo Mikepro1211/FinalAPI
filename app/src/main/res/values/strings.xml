@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FinalAPI</string>
+    <string name="Integrante2">Jared Romero</string>
+    <string name="Integrante1">Miguel Perez</string>
+    <string name="e_mail">Correo electronico</string>
+    <string name="password">Contraseña</string>
+    <string name="btnIngresar">Ingresar</string>
+    <string name="NoCuenta">Registrarse</string>
+    <string name="btnRegistrar">Registrarse</string>
+</resources>
